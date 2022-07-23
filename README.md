@@ -1,7 +1,4 @@
-# devprox-csv
- Devprox Test 2
-
-
+# Generating a csv using random names
 
 ## Creating a CSV
 
