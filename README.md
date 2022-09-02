@@ -24,5 +24,5 @@
 ?>
 ```
 
-2. Add a database called devprox_db to your MySQL database
+2. Add a database called csv_db to your MySQL database
 3. Run the **db.sql** file in your database which will create the table used for Importing CSVs into MySQL database table
